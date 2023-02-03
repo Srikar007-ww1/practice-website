@@ -1,0 +1,27 @@
+body {
+    background-color:hsl(151, 54%, 56%);
+}
+
+h1 {
+
+    color: #e4e4e4e9;
+
+
+}
+
+
+h3 {
+
+    color: #e4e4e4;
+
+
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+
+}
